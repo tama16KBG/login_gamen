@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">test1</string>
+
+    <string name="address_label">address</string>
+    <string name="pass_label">pass</string>
+    <string name="registration_label">Member registration</string>
+    <string name="login_label">Log in</string>
+</resources>
